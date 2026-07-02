@@ -85,7 +85,7 @@ This allows developers to monitor system behavior and verify correct operation d
 
 # Source Code
 
-The complete Arduino source code for this project is available in the repository's [code]() directory.
+The complete Arduino source code for this project is available in the repository's [code](code/keypad_led_controlled_project_on_6th_november_2025.ino) directory.
 
 ---
 
