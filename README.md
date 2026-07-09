@@ -38,7 +38,7 @@ The primary objectives of this project are to:
 # Circuit Diagram
 
 The complete circuit diagram for this project is included in this repository.
-![circuit_diagram]()
+![circuit_diagram](images/keypad_led_controlled_photo1.jpg)
 Additional hardware images and wiring references are also provided to assist with assembly and verification.
 
 ---
